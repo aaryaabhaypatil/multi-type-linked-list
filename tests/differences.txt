@@ -1,0 +1,20 @@
+--- part1/test_combined1.out	2024-03-29 17:11:43
++++ part1/test_combined1.expected	2024-03-29 17:07:21
+@@ -0,0 +1,17 @@
++List 0: we -> are -> university
++List 1: A -> s -> d -> f
++INVALID COMMAND: VIEW
++INVALID COMMAND: VIEW
++Number of lists: 2
++List 0
++List 1
++INVALID COMMAND: REMOVE
++List 0 has been removed.
++
++Number of lists: 1
++List 1
++INVALID COMMAND: VIEW
++INVALID COMMAND: VIEW
++INVALID COMMAND: INPUT
++char -> char -> char -> char
++
